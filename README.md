@@ -1,27 +1,23 @@
-# 💫 About Me:
-Hi there! I'm toxicMango64, a passionate developer always eager to learn and explore new technologies. 
+![svg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=ffffff&random=false&width=435&lines=Welcome+to+my+profile+!)
 
-🔭 I’m currently working on C plus plus Projects <br>
-👯 I’m looking to collaborate on open-source projects and innovative tech solutions <br>
-🤝 I’m looking for help with C plus plus optimizations <br>
-🌱 I’m currently learning C++, focusing on classes, namespaces, and member functions <br>
-💬 Ask me about web development, cloud computing, operating system security and C/C++ programming <br>
-⚡ Fun fact: I love to tinker with Raspberry Pi and IoT devices! <br>
+## I'm a cybersecurity student and CTF Player 
+<p1>
+  <img height="190" width="210" align="right" src="https://github.com/user-attachments/assets/44d46ee2-0354-4aa5-9e76-8e4de58be366" >  
+</p1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toxicmango64&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=toxicmango64&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicmango64&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**`🔍`** Currently diving deep into **Splunk** and **ELK Stack** to master log analysis and observability.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=toxicmango64&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+**`🤖`** Writing automation scripts using **Python**, **Bash**, and **PowerShell** to streamline workflows and solve complex problems.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**`🎮`** Passionate about cybersecurity, actively participating in **CTFs** to sharpen my skills.
 
----
-[![](https://visitcount.itsvg.in/api?id=toxicmango64&icon=0&color=0)](https://visitcount.itsvg.in)
+**`⌨️`** Touch typing enthusiast—personal best: **108 WPM** (60 seconds).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to explore my repositories or reach out if you'd like to collaborate!
+
+## Below is my contributions graph for 2023 / 2024
+![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)
+
+### Random Dev Quote
+<!-- themes: dark, chartreuse-dark, radical, merko, gruvbox, tokyonight, algolia, monokai, dracula, nord -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
