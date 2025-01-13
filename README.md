@@ -16,7 +16,7 @@
 
 Feel free to explore my repositories or reach out if you'd like to collaborate!
 
-## Below is my contributions graph for 2023 / 2024
+## Below is my contributions graph
 ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)            
 
 ### Random Dev Quote
