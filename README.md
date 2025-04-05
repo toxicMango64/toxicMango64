@@ -17,10 +17,11 @@ I'm a cybersecurity student and CTF Player
 Feel free to explore my repositories or reach out if you'd like to collaborate!
 
 ## Below is my contributions graph
-### for best experience use dark mode on github
-![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)            
+### For best experience use dark mode on github
+![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)  
 
-![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake.svg)            
+<!-- ### For best experience use light mode on github
+![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake.svg)        -->
 
 <!-- ### Random Dev Quote -->
 <!-- themes: dark, chartreuse-dark, radical, merko, gruvbox, tokyonight, algolia, monokai, dracula, nord
