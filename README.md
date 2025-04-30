@@ -23,4 +23,4 @@ Feel free to explore my repositories or reach out if you'd like to collaborate!
 
 ## Below is my contributions graph
 &nbsp;[ ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/settings/appearance#gh-dark-mode-only)
-[ ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-light.svg)](https://github.com/settings/appearance#gh-light-mode-only)
+[ ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake.svg)](https://github.com/settings/appearance#gh-light-mode-only)
