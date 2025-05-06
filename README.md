@@ -1,4 +1,4 @@
-&nbsp;[ ![Welcome msg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=ffffff&random=false&width=435&lines=Welcome+to+my+profile+!)](https://github.com/settings/appearance#gh-dark-mode-only)[ ![Welcome msg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=eeeeee&random=false&width=435&lines=Welcome+to+my+profile+!)](https://github.com/settings/appearance#gh-light-mode-only)
+&nbsp;[ ![Welcome msg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=ffffff&random=false&width=435&lines=Welcome+to+my+profile+!)](https://github.com/settings/appearance#gh-dark-mode-only)[ ![Welcome msg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=aaaaaa&random=false&width=435&lines=Welcome+to+my+profile+!)](https://github.com/settings/appearance#gh-light-mode-only)
 
 ## user@PC:~$ WHOAMI
 I'm a cybersecurity student and CTF player.
