@@ -24,7 +24,7 @@ Feel free to explore my repositories or reach out if you'd like to collaborate!
 
 <!-- Markdown Alert extensions for emphasizign critical information -->
 
-> [!NOTE]  
+<!-- > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
@@ -37,6 +37,6 @@ Feel free to explore my repositories or reach out if you'd like to collaborate!
 > Critical content demanding immediate user attention due to potential risks.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Negative potential consequences of an action. -->
 
 <!-- &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄... -->
