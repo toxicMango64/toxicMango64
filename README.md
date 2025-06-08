@@ -21,13 +21,6 @@ Feel free to explore my repositories or reach out if you'd like to collaborate!
 ╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 &nbsp;[ ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/settings/appearance#gh-dark-mode-only)[ ![Snake animation](https://github.com/toxicMango64/toxicMango64/blob/output/github-contribution-grid-snake.svg)](https://github.com/settings/appearance#gh-light-mode-only)
 
-
-> [!NOTE]
-> to test FT_IRC run the tester:
-> ```bash
-> ./irc_test.sh <localhost/127.0.0.1> <PORT> > <yourpassword>
-> ```
-
 <!-- Markdown Alert extensions for emphasizign critical information -->
 
 <!-- > [!NOTE]  
